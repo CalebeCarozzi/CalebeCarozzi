@@ -44,7 +44,7 @@
   <img 
   align="left"
   heigth="200"
-  style="padding-right: 10px;"
+  style="padding-right: 5px;"
   src="https://github-readme-stats.vercel.app/api?username=CalebeCarozzi&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 
@@ -52,6 +52,6 @@
   align="left"
   heigth="200"
   width="355px"
-  style="padding-right: 10px;"
+  style="padding-right: 5px;"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&layout=compact&locale=pt-br" 
   />
