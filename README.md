@@ -41,17 +41,20 @@
 <br/>
 
 ## 📊Estatísticas
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-
-  <img 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=CalebeCarozzi&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&layout=compact&locale=pt-br" 
-  />
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img 
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=CalebeCarozzi&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&layout=compact&locale=pt-br" 
+      />
+    </td>
+  </tr>
+</table>
 
