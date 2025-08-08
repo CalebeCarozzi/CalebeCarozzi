@@ -52,7 +52,7 @@
     <td>
       <img 
         height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&layout=compact&locale=pt-br" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalebeCarozzi&theme=dracula&layout=compact&locale=pt-br" 
       />
     </td>
   </tr>
