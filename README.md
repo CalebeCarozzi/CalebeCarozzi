@@ -2,9 +2,9 @@
 
 Back-end development student focused on Java and Spring Boot.
 
-🎓 Systems Analysis and Development student at UFPR  
-☕ Currently studying Java, Spring Boot and SQL  
-💻 Interested in back-end development and software architecture
+- Systems Analysis and Development student at UFPR  
+- Currently studying Java, Spring Boot and SQL  
+- Interested in back-end development and software architecture
 
 ---
 
