@@ -1,12 +1,14 @@
-## 🖐️Olá! Sou o Calebe Carozzi 
-* Desenvolvedor em formação
-* Cursando Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná (UFPR)
-* Estudando Java 🍵
+## 🖐️ Hello! I'm Calebe Carozzi
+* Software Developer in training
+* Currently studying Systems Analysis and Development at the Federal University of Paraná (UFPR)
+* Learning Java 🍵
 
-## 📞Formas da Contato 
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:calebercarozzi@outlook.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calebe-carozzi)
+## 📞 Contact Information
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:calebercarozzi@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calebe-carozzi)
+
 <br/>
-## 🤖Linguagens e Tecnologias que estou aprendendo
+
+## 🤖 Languages and Technologies I'm Learning
 <div>
   <img 
   align="left"
@@ -17,7 +19,7 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
   />
 
-<img 
+  <img 
   align="left"
   alt="HTML"
   title="HTML"
@@ -34,27 +36,4 @@
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
   />
-<div/>  
-  
-<br/>
-<br/>
-<br/>
-
-## 📊Estatísticas
-<table>
-  <tr>
-    <td>
-      <img 
-        height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=CalebeCarozzi&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-      />
-    </td>
-    <td>
-      <img 
-        height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalebeCarozzi&theme=dracula&layout=compact&locale=pt-br" 
-      />
-    </td>
-  </tr>
-</table>
-
+</div>
