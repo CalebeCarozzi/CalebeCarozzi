@@ -22,6 +22,9 @@ Web typing game built with PHP, JavaScript and SQL, featuring authentication, ra
 ### Sparse Matrix in C
 Sparse matrix implementation using linked lists and dynamic memory allocation in C.
 
+### File Backup Automation
+Automated file backup system developed to manage and organize backups efficiently.
+
 ---
 
 ## Contact
