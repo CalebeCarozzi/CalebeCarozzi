@@ -1,39 +1,42 @@
-## 🖐️ Hello! I'm Calebe Carozzi
-* Software Developer in training
-* Currently studying Systems Analysis and Development at the Federal University of Paraná (UFPR)
-* Learning Java 🍵
+# Hi, I'm Calebe Carozzi
 
-## 📞 Contact Information
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:calebercarozzi@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calebe-carozzi)
+Back-end development student focused on Java and Spring Boot.
 
-<br/>
+🎓 Systems Analysis and Development student at UFPR  
+☕ Currently studying Java, Spring Boot and SQL  
+💻 Interested in back-end development and software architecture
 
-## 🤖 Languages and Technologies I'm Learning
-<div>
-  <img 
-  align="left"
-  alt="JAVA"
-  title="JAVA"
-  width="60px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-  />
+---
 
-  <img 
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="50px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
-  />
+## Tech Stack
+
+Java • Spring Boot • SQL • JavaScript • HTML • CSS • C
+
+---
+
+## Featured Projects
+
+### Typing Game
+Web typing game built with PHP, JavaScript and SQL, featuring authentication, rankings and player leagues.
+
+### Sparse Matrix in C
+Sparse matrix implementation using linked lists and dynamic memory allocation in C.
+
+---
+
+## Contact
+
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:calebercarozzi@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calebe-carozzi)
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CalebeCarozzi&show_icons=true&theme=dracula&hide_border=true"/>
   
-  <img 
-  align="left"
-  alt="CSS"
-  title="CSS"
-  width="50px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
-  />
-</div>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CalebeCarozzi&layout=compact&theme=dracula&hide_border=true"/>
+</p>
+
+---
+
