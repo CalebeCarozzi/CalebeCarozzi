@@ -16,6 +16,10 @@ Java • Spring Boot • SQL • JavaScript • HTML • CSS • C
 
 ## Featured Projects
 
+### Pizzeria Management System
+Desktop application built with Java Swing for managing customers, pizza flavors, prices, orders and order status.
+The project applies object-oriented programming, layered structure, validations and business rules.
+
 ### Typing Game
 Web typing game built with PHP, JavaScript and SQL, featuring authentication, rankings and player leagues.
 
