@@ -37,13 +37,13 @@ Automated file backup system developed to manage and organize backups efficientl
 
 ---
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
 <p align="left">
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CalebeCarozzi&show_icons=true&theme=dracula&hide_border=true"/>
   
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CalebeCarozzi&layout=compact&theme=dracula&hide_border=true"/>
-</p>
+</p> -->
 
 ---
 
