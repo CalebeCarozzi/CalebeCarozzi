@@ -51,6 +51,11 @@ Backup automation script with directory validation, support for multiple source 
 
 ## GitHub Stats
 
-\<p align="left">   \<img height="165em" src="[https://github-stats-extended.vercel.app/api?username=CalebeCarozzi&show_icons=true&hide_border=true](https://github-stats-extended.vercel.app/api?username=CalebeCarozzi\&show_icons=true\&hide_border=true)" />   \<img height="165em" src="[https://github-stats-extended.vercel.app/api/top-langs/?username=CalebeCarozzi&layout=compact&hide_border=true](https://github-stats-extended.vercel.app/api/top-langs/?username=CalebeCarozzi\&layout=compact\&hide_border=true)" /> \</p>
+<p align="left">
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=CalebeCarozzi&show_icons=true&hide_border=true" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CalebeCarozzi&layout=compact&hide_border=true" />
+</p>
 
 ---
+
+
