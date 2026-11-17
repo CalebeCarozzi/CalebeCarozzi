@@ -1,53 +1,62 @@
 # Hi, I'm Calebe Carozzi
 
-Back-end development student focused on Java and Spring Boot.
+Systems Analysis and Development student at UFPR, focused on software engineering and backend development.
 
-- Systems Analysis and Development student at UFPR  
-- Currently studying Java, Spring Boot and SQL  
-- Interested in back-end development and software architecture
+Java is my main programming language, and I have been building projects with Spring Boot, REST APIs, relational databases and automated testing. I also have experience working with Angular and TypeScript in team projects.
+
+Currently looking for internship opportunities in software development.
 
 ---
 
 ## Tech Stack
 
-Java • Spring Boot • SQL • JavaScript • HTML • CSS • C
+**Languages:** Java • SQL • TypeScript • JavaScript  
+**Backend:** Spring Boot • Spring Data JPA • Hibernate • JDBC • REST APIs  
+**Databases:** PostgreSQL • MySQL  
+**Frontend:** Angular  
+**Testing:** JUnit 5 • Mockito  
+**Tools:** Git • GitHub • Maven
 
 ---
 
 ## Featured Projects
 
-### Equipment Maintenance System
+### [Equipment Maintenance System](https://github.com/CalebeCarozzi/equipment-maintenance-system)
 
-Full-stack web application developed in a team using Java, Spring Boot, Angular and PostgreSQL. My main contribution was implementing REST APIs, business rules and data persistence with Spring Data JPA. I also worked on frontend services, screens and integration between Angular and the backend.
+**Java • Spring Boot • Angular • PostgreSQL**
 
-### Order Management API
+Team-developed web application for managing equipment maintenance requests. My main contribution was implementing REST APIs, business rules and persistence with Spring Data JPA and PostgreSQL. I also worked with Angular services, screens and frontend-backend integration.
 
-REST API developed with Java and Spring Boot for managing users, products, categories and orders. The project uses layered architecture, JPA/Hibernate, PostgreSQL, entity relationships and centralized exception handling.
+### [Order Management API](https://github.com/CalebeCarozzi/java-order-management-api)
 
-### Java DAO JDBC
+**Java • Spring Boot • JPA/Hibernate • PostgreSQL**
 
-Java project focused on database access using JDBC, MySQL and the DAO pattern. Implemented CRUD operations for sellers and departments using PreparedStatement, ResultSet and exception handling.
+REST API for managing users, products, categories and orders. Built using layered architecture, relational data modeling, JPA/Hibernate persistence and centralized exception handling.
 
-### File Backup Automation
+### [Java DAO JDBC](https://github.com/CalebeCarozzi/java-dao-jdbc)
 
-Backup automation project developed with Shell Script and rsync. The script validates source and destination directories, supports multiple backup paths and generates logs for executed operations.
+**Java • JDBC • MySQL • Maven**
 
+Java project focused on relational database access using JDBC and the DAO pattern. Includes CRUD operations using PreparedStatement and ResultSet, exception handling and separation of data-access responsibilities.
+
+### [File Backup Automation](https://github.com/CalebeCarozzi/file-backup-automation)
+
+**Shell Script • rsync • Linux**
+
+Backup automation script with directory validation, support for multiple source and destination paths, rsync synchronization and operation logs.
 
 ---
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:calebercarozzi@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calebe-carozzi)
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:calebercarozzi@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calebe-carozzi)
 
 ---
 
 ## GitHub Stats
 
 <p align="left">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CalebeCarozzi&show_icons=true&theme=dracula&hide_border=true"/>
-  
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CalebeCarozzi&layout=compact&theme=dracula&hide_border=true"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=CalebeCarozzi&show_icons=true&hide_border=true" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CalebeCarozzi&layout=compact&hide_border=true" />
 </p>
-
----
-
