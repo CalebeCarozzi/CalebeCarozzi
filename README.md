@@ -1,21 +1,16 @@
 # Hi, I'm Calebe Carozzi
 
-Systems Analysis and Development student at UFPR, focused on software engineering and backend development.
+Systems Analysis and Development student at UFPR, focused on backend development and software engineering.
 
-Java is my main programming language, and I have been building projects with Spring Boot, REST APIs, relational databases and automated testing. I also have experience working with Angular and TypeScript in team projects.
-
-Currently looking for internship opportunities in software development.
+Java is my main programming language. I currently work with Spring Boot, REST APIs, relational databases and automated testing.
 
 ---
 
 ## Tech Stack
 
-**Languages:** Java • SQL • TypeScript • JavaScript  
-**Backend:** Spring Boot • Spring Data JPA • Hibernate • JDBC • REST APIs  
-**Databases:** PostgreSQL • MySQL  
-**Frontend:** Angular  
-**Testing:** JUnit 5 • Mockito  
-**Tools:** Git • GitHub • Maven
+Java • Spring Boot • REST APIs • SQL • PostgreSQL • JPA/Hibernate • JUnit • Mockito • Git • Angular • TypeScript
+
+---
 
 ---
 
@@ -56,7 +51,6 @@ Backup automation script with directory validation, support for multiple source 
 
 ## GitHub Stats
 
-<p align="left">
-  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=CalebeCarozzi&show_icons=true&hide_border=true" />
-  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CalebeCarozzi&layout=compact&hide_border=true" />
-</p>
+\<p align="left">   \<img height="165em" src="[https://github-stats-extended.vercel.app/api?username=CalebeCarozzi&show_icons=true&hide_border=true](https://github-stats-extended.vercel.app/api?username=CalebeCarozzi\&show_icons=true\&hide_border=true)" />   \<img height="165em" src="[https://github-stats-extended.vercel.app/api/top-langs/?username=CalebeCarozzi&layout=compact&hide_border=true](https://github-stats-extended.vercel.app/api/top-langs/?username=CalebeCarozzi\&layout=compact\&hide_border=true)" /> \</p>
+
+---
