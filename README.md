@@ -16,18 +16,22 @@ Java • Spring Boot • SQL • JavaScript • HTML • CSS • C
 
 ## Featured Projects
 
-### Pizzeria Management System
-Desktop application built with Java Swing for managing customers, pizza flavors, prices, orders and order status.
-The project applies object-oriented programming, layered structure, validations and business rules.
+### Equipment Maintenance System
 
-### Typing Game
-Web typing game built with PHP, JavaScript and SQL, featuring authentication, rankings and player leagues.
+Full-stack web application developed in a team using Java, Spring Boot, Angular and PostgreSQL. My main contribution was implementing REST APIs, business rules and data persistence with Spring Data JPA. I also worked on frontend services, screens and integration between Angular and the backend.
 
-### Sparse Matrix in C
-Sparse matrix implementation using linked lists and dynamic memory allocation in C.
+### Order Management API
+
+REST API developed with Java and Spring Boot for managing users, products, categories and orders. The project uses layered architecture, JPA/Hibernate, PostgreSQL, entity relationships and centralized exception handling.
+
+### Java DAO JDBC
+
+Java project focused on database access using JDBC, MySQL and the DAO pattern. Implemented CRUD operations for sellers and departments using PreparedStatement, ResultSet and exception handling.
 
 ### File Backup Automation
-Automated file backup system developed to manage and organize backups efficiently.
+
+Backup automation project developed with Shell Script and rsync. The script validates source and destination directories, supports multiple backup paths and generates logs for executed operations.
+
 
 ---
 
